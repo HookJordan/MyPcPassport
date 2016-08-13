@@ -1,9 +1,9 @@
 # MyPcPassport
 A Simple C# application to load system information. 
 
-Currently Load: 
-[x] Operating System + information 
-[x] CPU + information 
-[x] GPU + information
-[x] RAM + information 
-[x] HDD['s] + information
+Currently Load: <br />
+[x] Operating System + information <br />
+[x] CPU + information <br />
+[x] GPU + information<br />
+[x] RAM + information <br />
+[x] HDD['s] + information<br />
